@@ -1,16 +1,8 @@
-# This is a sample Python script.
+def test_login(user, password):
+    if user == "admin" and password == "1234":
+        print("SUCCESS")
+    else:
+        print("FAIL")
 
-# Press Mayús+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+test_login("admin", "1234")
+test_login("user", "0000")
