@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e800b33c-986d-44d2-a95e-f7648bbb3329" name="Changes" comment="añadir comprobación de acceso y llamadas de ejemplo" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kcortesnemoga-eng&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kcortesnemoga-eng/Nuevo_Repositorio.git&quot;,
+    &quot;accountId&quot;: &quot;53618284-fb8e-4dcf-8628-81e69b8176cd&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0126890736621037" />
+      <entry key="MS500" value="1.7434389219866737" />
+      <entry key="S2" value="3.7515672038305485" />
+      <entry key="S5" value="4.930873017961924" />
+      <entry key="S10" value="5.933888807185158" />
+      <entry key="S30" value="8.955905656719693" />
+      <entry key="S60" value="10.907161522372242" />
+      <entry key="M2" value="12.273078875024135" />
+      <entry key="M5" value="13.259837855559589" />
+      <entry key="M10" value="13.62140503808235" />
+      <entry key="M15" value="13.753326909158623" />
+      <entry key="M30" value="14.089626110630832" />
+      <entry key="H1" value="15.07909227180662" />
+      <entry key="H2" value="16.587083407236427" />
+      <entry key="H4" value="17.948204712008017" />
+      <entry key="D1" value="19.59687758974112" />
+      <entry key="W1" value="19.940703882888585" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8692561454530641" />
+      <entry key="MS500" value="1.6904467655620843" />
+      <entry key="S2" value="3.7227010691332594" />
+      <entry key="S5" value="4.915598468291179" />
+      <entry key="S10" value="5.9243599791940875" />
+      <entry key="S30" value="8.950396128498848" />
+      <entry key="S60" value="10.903584116812004" />
+      <entry key="M2" value="12.270992382678807" />
+      <entry key="M5" value="13.258915557315063" />
+      <entry key="M10" value="13.620927645916911" />
+      <entry key="M15" value="13.753004346461353" />
+      <entry key="M30" value="14.089455072221563" />
+      <entry key="H1" value="15.078988955114607" />
+      <entry key="H2" value="16.587017822297085" />
+      <entry key="H4" value="17.948165598492082" />
+      <entry key="D1" value="19.59686979193676" />
+      <entry key="W1" value="19.940702730782505" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MIYpnc1LFhd4tGmwZWMRip36LM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;2&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Nuevo_Repositorio" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e800b33c-986d-44d2-a95e-f7648bbb3329" name="Changes" comment="" />
+      <created>1795039734960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795039734960</updated>
+      <workItem from="1795039737485" duration="4909000" />
+      <workItem from="1795102959239" duration="1262000" />
+    </task>
+    <task id="LOCAL-00001" summary="añadir comprobación de acceso y llamadas de ejemplo">
+      <option name="closed" value="true" />
+      <created>1795048451231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1795048451231</updated>
+    </task>
+    <task id="LOCAL-00002" summary="añadir comprobación de acceso y llamadas de ejemplo">
+      <option name="closed" value="true" />
+      <created>1795103556833</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1795103556833</updated>
+    </task>
+    <task id="LOCAL-00003" summary="añadir comprobación de acceso y llamadas de ejemplo">
+      <option name="closed" value="true" />
+      <created>1795103572802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1795103572802</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="añadir comprobación de acceso y llamadas de ejemplo" />
+    <option name="LAST_COMMIT_MESSAGE" value="añadir comprobación de acceso y llamadas de ejemplo" />
+  </component>
+</project>
